@@ -1,0 +1,36 @@
+<style>
+	
+   #container 	{
+		     background-color: #EFE0E0;
+		     height: 150%;
+		     border: 2px solid black;
+		     padding: 3px 6px 100% 6px;
+		     }
+		     
+		  
+	
+   #space	 {
+		     background-color: white;
+		     color: #BFBFBF;
+		     width: 200px;
+		     }
+		  
+	 
+   .001		{ border: 1px solid black;
+	       }
+	       
+   #666		{ font-family: courier;
+	       }
+	       
+   .gigant { font-size: 100px;
+	       color: #D75757;
+	       }
+	       
+	       
+   em	 	{text-decoration: underline black;}
+   
+   .friends 	{color: red;}
+   
+   
+	       
+</style>
