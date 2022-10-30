@@ -1,13 +1,30 @@
-<style>
-	
-   #container 	{
-		     background-color: #EFE0E0;
-		     height: 150%;
-		     border: 2px solid black;
-		     padding: 3px 6px 100% 6px;
-		     }
-		     
-		  
+<style>	
+body {
+    font-family: 	 Helvetica,Courier,Arial,sans-serif;
+    max-width: 800px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header h1 {
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+header p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    line-height: 1.5;
+}  
 	
    #space	 {
 		     background-color: white;
@@ -31,6 +48,8 @@
    
    .friends 	{color: red;}
    
-   
+
+}
+
 	       
 </style>
